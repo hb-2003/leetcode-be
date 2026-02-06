@@ -1,0 +1,6 @@
+#!/usr/bin/env sh
+
+# Run lint-staged to format and lint staged files
+npx lint-staged 
+
+npm run test
